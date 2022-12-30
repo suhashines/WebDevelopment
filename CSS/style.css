@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:whitesmoke;
+}
+
+.bookName{
+    color:greenyellow;
+    text-align: center;
+}
+.authorName{
+    color:darkorange;
+    text-align: center;
+}
+.blog p{
+    color:whitesmoke;
+    text-align:justify;
+    font-size:16px;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+.blog{
+    background-color:black;
+    margin: 30px 20px;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    padding: 10px;
+}
+#whole{
+    background-color: rgb(112,42,99);
+}
